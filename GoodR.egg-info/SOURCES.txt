@@ -1,6 +1,0 @@
-GoodR.egg-info/PKG-INFO
-GoodR.egg-info/SOURCES.txt
-GoodR.egg-info/dependency_links.txt
-GoodR.egg-info/entry_points.txt
-GoodR.egg-info/requires.txt
-GoodR.egg-info/top_level.txt
